@@ -7,5 +7,5 @@ This repository holds some of my Computer Science coursework assignments and pro
 - CSC134 - Database Management Systems.
 - CSC138 - Computer Networks and Internets.
 
-## ⚠️  Disclaimer to Students
+## ⚠️  Disclaimer to students
 Please refrain from copying. I will not be held responsible if students copy any of the work presented here. Thank you.

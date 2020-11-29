@@ -9,4 +9,6 @@ This repository holds some of my Computer Science coursework assignments and pro
 - CSC133 - Object-Oriented Computer Graphics Programming
 - CSC134 - Database Management Systems.
 - CSC138 - Computer Networks and Internets.
-  >Screenshots/README.md of CSC133 Project [here](https://github.com/ddsooxo/Sac-State-CSC/blob/master/CSC133/CSC133-README.md)
+  
+ ### Projects
+ - CSC133 Project: A1 to A3(Screenshots/README.md are[here](https://github.com/ddsooxo/Sac-State-CSC/blob/master/CSC133/CSC133-README.md))

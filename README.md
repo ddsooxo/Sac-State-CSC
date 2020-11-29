@@ -3,7 +3,7 @@ This repository holds some of my Computer Science coursework assignments and pro
 
 ### Courses
 - CSC131 - Computer Software Engineering
-- CSC133 - Object-Oriented Computer Graphics Programming
+- CSC133 - [Object-Oriented Computer Graphics Programming](https://github.com/ddsooxo/Sac-State-CSC/blob/master/CSC133/CSC133-README.md)
 - CSC134 - Database Management Systems.
 - CSC138 - Computer Networks and Internets.
 

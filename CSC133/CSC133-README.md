@@ -20,24 +20,24 @@ Created a Java mobile game called _Bad Squirrel_.
 - Initial Point, Console View
 ![Alt text](Screenshots/a2-1.png "Initial Point, Console View")
 
-- Initial Point, Console View
+- Initial Point, GameWorld View
 ![Alt text](Screenshots/a2-2.png "GameWorld View")
 
-- Initial Point, Console View
+- Left Hamburger Menu View
 ![Alt text](Screenshots/a2-3.png "Hamburger Menu on the Left")
 
 - A2's About Button View
-![Alt text](Screenshots/a2-4.png "Initial Point, Console View")
+![Alt text](Screenshots/a2-4.png "A2 About Button")
 
 ## Screenshots of A3
 - Initial Point, GameWorld View
 ![Alt text](Screenshots/a3-1.png "Initial Point, GameWorld View")
 
 - Pause Button
-![Alt text](Screenshots/a3-2.png "Initial Point, Console View")
+![Alt text](Screenshots/a3-2.png "Pause Button")
 
 - A3's About Button View
-![Alt text](Screenshots/a3-3.png "Initial Point, Console View")
+![Alt text](Screenshots/a3-3.png "A3 About Button View")
 
-- Console View mid-game
-![Alt text](Screenshots/a3-4.png "Initial Point, Console View")
+- Console View Mid-play View
+![Alt text](Screenshots/a3-4.png "Mid-play View")

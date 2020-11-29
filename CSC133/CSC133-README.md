@@ -1,6 +1,6 @@
 ## ⚠️ Disclaimer to students
 
-Please refrain from copying. I will not be held responsible if students copy any of the work presented here. Thank you.
+Please refrain from copying. I will not be held responsible if students copy any of the work presented here. Only use this repository as *reference*.🤓 Thank you.
 
 # CSC 133 Object-Oriented Computer Graphics Programming
 
@@ -13,6 +13,7 @@ Created a Java mobile game called _Bad Squirrel_.
 - Semester long OOP Project divided up into three assignments: A1, A2, A3
 - Created UML diagrams, implemented event-driven systems and movable graphics, and applied OOP concepts to singlehandedly build a mobile game split into 3 deliverables.
 - Technologies used were Eclipse IDE and Java GUI functionalities with CodeNameOne API.
+- Some functionalities of A3 are not correctly working -- in progress. 
 
 ## Screenshots of A2
 

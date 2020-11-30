@@ -11,4 +11,5 @@ This repository holds some of my Computer Science coursework assignments and pro
 - CSC138 - Computer Networks and Internets.
   
  ### Projects
+ - CSC131 Project: `The New Times Proposal`([here](https://github.com/ddsooxo/Sac-State-CSC/tree/master/CSC131)) 
  - CSC133 Project: `Bad-Squirrel` (Screenshots/README.md are [here](https://github.com/ddsooxo/Sac-State-CSC/blob/master/CSC133/CSC133-README.md))

@@ -2,7 +2,7 @@ function bigger() {
     document.getElementById("big-button");
     document.getElementById("text-area").style.fontSize = "24pt";
     // alert("hello world!");
-
+  
 }
 
 

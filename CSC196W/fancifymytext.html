@@ -1,16 +1,36 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Fancify Shamcify</title>
-		<!-- link to your script file here -->
-		<script src="./fancymytext.js"></script>
-	</head>
 
-	<body>
-		<h1>Fancify my Text</h1>
-				
+<head>
+	<title>Fancify Shamcify</title>
+	<!-- link to your script file here -->
+	<script src="./fancymytext.js"></script>
+	<link rel="stylesheet" href="./fancifymytext.css">
+</head>
 
-		<!-- Your UI controls go here -->
-		
-	</body>
+<body>
+	<h1>Fancify my Text</h1>
+	<!-- Your UI controls go here -->
+	<fieldset name="text">
+		<label for="text">Text</label>
+		<textarea name="" id="text-area" cols="30" rows="4"></textarea>
+	</fieldset>
+
+	<fieldset name="fancify">
+		<h3>Fancify</h3>
+
+		<button id="big-button" onclick="bigger()">Bigger!</button>
+
+		<input type="radio" onchange="alert()" id="fancify" onclick="fancyText()">
+		<label for="fancyShmancy">FancyShmancy</label>
+
+		<input type="radio" id="plainJane" onchange="alert()" onclick="plainText()">
+		<label for="boringBetty">BoringBetty</label>
+
+		<button id="MooButton" onclick="moo()">Moo</button>
+	</fieldset>
+
+
+</body>
+
 </html>

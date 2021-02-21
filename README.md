@@ -9,6 +9,7 @@ This repository holds some of my Computer Science coursework assignments and pro
 - CSC133 - Object-Oriented Computer Graphics Programming
 - CSC134 - Database Management Systems
 - CSC138 - Computer Networks and Internets
+- CSC196W - Web Programming
   
  ### Projects
  - CSC131 Project: `The New Times Proposal` -- README file is located [here](https://github.com/ddsooxo/Sac-State-CSC/blob/master/CSC131/README.md).

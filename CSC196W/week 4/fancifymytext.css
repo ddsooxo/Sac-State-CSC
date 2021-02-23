@@ -1,4 +1,14 @@
+* {
+    border-radius: 0.7em;
+    /* background-color: #9e9e9e; */
+    background-color: #88ad86;
+    color: #ffffff;
+}
 
+fieldset {
+    margin: 10px;
+    border-color: #6b9e78;
+}
 
 label {
     font: 1rem 'Fira Sans', sans-serif;
@@ -8,6 +18,10 @@ input,
 label {
     margin: .4rem 0;
     padding: .4rem;
+}
+
+#text-area {
+    border-color: white;
 }
 
 #input {
